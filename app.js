@@ -87,19 +87,5 @@ mensajesBienvenida();
 
 
 
-let listaGenerica =[];
-let lenguagesDeProgramacion = [
-    'JavaScript',
-    'C',
-    'C++',
-    'Kotlin',
-    'Python',
-];
 
-lenguagesDeProgramacion.push('Java', 'Ruby', 'GoLang');
-
-
-function agregarLenguaje() {
-    console.log(lenguagesDeProgramacion -1); // ✅ REGISTRO
-}
     
